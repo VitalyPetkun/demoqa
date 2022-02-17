@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <firstName>Jon</firstName>
+        <lastName>Snow</lastName>
+        <email>knownothing@gmail.com</email>
+        <age>30</age>
+        <salary>3000</salary>
+        <department>alpha</department>
+    </user>
+    <user>
+        <firstName>Buttercup</firstName>
+        <lastName>Cumbersnatch</lastName>
+        <email>BudapestCandygram@mail.ru</email>
+        <age>41</age>
+        <salary>2000</salary>
+        <department>beta</department>
+    </user>
+</users>

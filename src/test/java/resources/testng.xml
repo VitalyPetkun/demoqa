@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Parameters Suite">
+    <test name="AlertsTest">
+        <parameter name="url" value="https://demoqa.com/" />
+        <classes>
+            <class name="tests.AlertsTest" />
+        </classes>
+    </test>
+</suite>
